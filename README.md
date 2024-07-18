@@ -1,1 +1,1 @@
-# Python3-exam-preparation
+# Python3 エンジニア認定基礎試験対策
